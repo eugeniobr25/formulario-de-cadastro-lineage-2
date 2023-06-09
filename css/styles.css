@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    font-family: Poppins;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    border: 0;
+}
+
+.container {
+    background-color: rgba(8, 77, 110, 0.5);
+    border-radius: 20px;
+    border: 2px solid #274360;
+    width: 450px;
+    max-width: 100%;
+    margin: 30px;
+}
+
+.header {
+    padding: 30px 40px;
+}
+
+.header h2 {
+    font-weight: 600;
+    color: rgb(255, 255, 255, 0.8);
+    font-size: 30px;
+}
+
+.form {
+    padding: 0 40px 30px;
+}
+
+.form-control {
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.form-control label {
+    display: inline-block;
+    margin-bottom: 5px;
+    color: rgb(255, 255, 255, 0.8);
+}
+
+.form-control input {
+    border: 2px solid #274360;
+    border-radius: 20px;
+    outline: 0;
+    display: block;
+    font-size: 14px;
+    width: 100%;
+    padding: 15px;
+}
+
+.form-control.success input {
+    border: 3px solid #4ECA64;
+}
+
+.form-control.error input {
+    border: 3px solid red;
+}
+
+.form-control.error i.img-error {
+    visibility: visible;
+}
+
+.form-control.success i.img-success {
+    visibility: visible;
+}
+
+.form-control.error small {
+    color: red;
+    text-shadow: white 2px 2px 2px;
+    visibility: visible;
+}
+
+.form-control i {
+    position: absolute;
+    top: 45px;
+    right: 10px;
+    visibility: hidden;
+}
+
+.form-control small {
+    visibility: hidden;
+    position: absolute;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.form button {
+    background-color: rgba(8, 77, 110, 0.8);
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    width: 100%;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.form button:hover {
+    background-image: url(../img/backgroundbutton.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-shadow: 3px 3px 0px black;
+}

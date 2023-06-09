@@ -44,7 +44,7 @@ Este é um formulário de registro simples construído usando HTML, CSS e JavaSc
 ## Para mais assistência ou perguntas, entre em contato com:
 - [GitHub](https://github.com/eugeniobr25) 
 - [LinkeIn](https://www.linkedin.com/in/eug%C3%AAnio-brilhante-moraes-lima-010957276/)
-- [E-mail](eugeniobrilhante@hotmail.com)
+
 
 
 

@@ -13,7 +13,7 @@ Este é um formulário de registro simples construído usando HTML, CSS e JavaSc
     -Para executar o formulário de registro, você precisa de um navegador da Web compatível com HTML5, CSS3 e JavaScript.
 
 ## Uso
-    1- Abra o index.htmlarquivo em seu navegador da web.
+    1- Abra o index.html em seu navegador da web.
     2- Preencha o formulário com suas informações pessoais, incluindo seu nome, endereço de e-mail, senha e quaisquer outros campos obrigatórios.
     3- Certifique-se de que todos os campos obrigatórios sejam preenchidos corretamente. O formulário exibirá mensagens de erro se algum campo estiver ausente ou contiver dados inválidos.
     4- Depois que todos os campos estiverem preenchidos corretamente, clique no botão "Enviar" para enviar o formulário.

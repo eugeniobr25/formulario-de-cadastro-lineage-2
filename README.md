@@ -7,7 +7,7 @@ Este é um formulário de registro simples construído usando HTML, CSS e JavaSc
 ## Começando
     Para usar este formulário de inscrição, siga os passos abaixo.
     - Clone ou baixe o repositório para sua máquina local.
-    - Abra o index.html arquivo em um navegador da web.
+    - Abra o index.html em um navegador da web.
 
 ## Pré-requisitos
     -Para executar o formulário de registro, você precisa de um navegador da Web compatível com HTML5, CSS3 e JavaScript.

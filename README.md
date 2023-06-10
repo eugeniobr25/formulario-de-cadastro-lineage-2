@@ -22,8 +22,8 @@ Este é um formulário de registro simples construído usando HTML, CSS e JavaSc
 ## Costumização
     Você pode personalizar o formulário de registro para atender às suas necessidades. Aqui estão algumas modificações possíveis:
 
-    - Campos de formulário: você pode adicionar ou remover campos de acordo com seus requisitos. Basta modificar o código HTML no index.htmlarquivo.
-    - Regras de validação: se você deseja alterar as regras de validação ou adicionar novas verificações de validação, pode modificar o código JavaScript no script.jsarquivo. Procure a validateFormfunção e faça as alterações necessárias.
+    - Campos de formulário: você pode adicionar ou remover campos de acordo com seus requisitos. Basta modificar o código HTML no index.html.
+    - Regras de validação: se você deseja alterar as regras de validação ou adicionar novas verificações de validação, pode modificar o código JavaScript no script.js. Procure a validateFormfunção e faça as alterações necessárias.
     - Estilização: Para alterar a aparência do formulário de registro, você pode modificar o código CSS no style.cssarquivo. Sinta-se à vontade para atualizar as cores, fontes, layout ou qualquer outro aspecto visual.
 
 ## Contribuindo
